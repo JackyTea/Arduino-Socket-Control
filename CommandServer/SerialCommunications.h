@@ -1,7 +1,7 @@
 /*
-	Remote Serial Controller
+	Arduino Socket Controller
 	Jacky Tea
-	00/00/00
+	01/09/19
 	SerialCommunications.h
 
 	SerialCommunications class designed to transmit

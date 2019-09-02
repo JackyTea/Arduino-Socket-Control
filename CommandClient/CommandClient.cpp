@@ -1,7 +1,7 @@
 /*
-	Remote Serial Controller
+	Arduino Socket Controller
 	Jacky Tea
-	00/00/00
+	01/09/19
 	CommandClient.h
 
 	CommandClient class designed to trasmit user commands
