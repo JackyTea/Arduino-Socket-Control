@@ -1,3 +1,0 @@
-Connection Established
-Msg Rx: h
-Msg Rx: h
