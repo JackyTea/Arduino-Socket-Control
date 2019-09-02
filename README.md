@@ -1,4 +1,4 @@
-# Arduino Socket Control
+# Arduino Socket Controller
 A serial port interface that can be remotely operated via a socket connection. 
 
 This interface uses the [Winsock](https://docs.microsoft.com/en-us/windows/win32/winsock/about-winsock "Winsock Documentation") 
